@@ -4,4 +4,4 @@ php:
 deploy:
   hooks:
     postCloneScript: |
-      echo "Hello world!"
+      echo "Hello world!
