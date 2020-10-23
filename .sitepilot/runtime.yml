@@ -2,4 +2,4 @@ php:
   uploadSize: 32
 
 deploy:
-  path: public/test123
+  path: test123
