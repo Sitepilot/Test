@@ -1,7 +1,9 @@
 php:
   uploadSize: 20
-  
+
 deploy:
   hooks:
     postCloneScript: |
       echo "Hello world!"
+  linkedFolders:
+    - "wp-content"
