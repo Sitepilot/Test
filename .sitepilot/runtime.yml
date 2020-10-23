@@ -5,7 +5,8 @@ cache:
   enabled: false
 
 deploy:
-  postActivateScript: |
-    echo "test123"
+  hooks:
+    postActivateScript: |
+      echo "test123"
   linkedFolders:
     - "wp-content"
