@@ -1,8 +1,3 @@
 php:
   uploadSize: 55
 
-nginx: 
-  root: test123
-  
-deploy:
-  path: test123
