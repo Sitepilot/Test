@@ -5,5 +5,3 @@ deploy:
   hooks:
     postCloneScript: |
       echo "Hello world!"
-  linkedFolders:
-    - "wp-content"
