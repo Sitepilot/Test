@@ -3,3 +3,6 @@ php:
 
 nginx:
   root: "release"
+
+cache:
+  enable: true
