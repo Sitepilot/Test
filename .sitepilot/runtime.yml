@@ -1,3 +1,5 @@
 php:
   uploadSize: 55
 
+nginx:
+  root: "release"
