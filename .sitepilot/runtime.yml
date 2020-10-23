@@ -1,5 +1,5 @@
 php:
-  uploadSize: 1
+  uploadSize: 2
   
 deploy:
   hooks:
