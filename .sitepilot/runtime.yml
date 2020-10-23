@@ -1,5 +1,5 @@
-nginx:
-  root: "wp-content/themes/my-theme"
-
 cache:
   enabled: false
+
+deploy: 
+  path: "wp-content/themes/my-theme"
