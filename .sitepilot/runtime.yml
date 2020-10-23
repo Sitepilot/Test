@@ -1,5 +1,5 @@
 php:
-  uploadSize: 32
+  uploadSize: 55
 
 deploy:
   path: test123
