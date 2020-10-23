@@ -1,7 +1,7 @@
 php:
-  uploadSize: 1
+  uploadSize: 64
   
 deploy:
   hooks:
     postCloneScript: |
-      echo "test 123"
+      echo "Hello world!"
