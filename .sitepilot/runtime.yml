@@ -2,4 +2,4 @@ cache:
   enabled: false
 
 deploy: 
-  path: "wp-content/themes"
+  path: ""
