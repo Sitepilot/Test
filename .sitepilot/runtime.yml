@@ -3,3 +3,7 @@ nginx:
 
 cache:
   enabled: false
+
+deploy:
+  linkedFolders:
+    - "wp-content"
