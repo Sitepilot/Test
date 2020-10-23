@@ -1,9 +1,5 @@
 nginx:
-  root: "release"
+  root: "wp-content/themes/my-theme"
 
 cache:
   enabled: false
-
-deploy:
-  linkedFolders:
-    - "wp-content"
