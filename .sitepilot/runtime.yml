@@ -1,7 +1,2 @@
 php:
-  uploadSize: 322
-
-deploy:
-  hooks:
-    postCloneScript: |
-      echo "Hello world!"
+  uploadSize: 32
