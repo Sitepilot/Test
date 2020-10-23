@@ -1,8 +1,5 @@
 php:
   uploadSize: 55
 
-nginx:
-  root: "release"
-
 cache:
   enabled: false
