@@ -1,5 +1,2 @@
 cache:
   enabled: false
-
-deploy: 
-  path: ""
