@@ -1,2 +1,7 @@
+nginx:
+  root: release
+
 cache:
-  enabled: true
+  enabled: false
+  
+  
